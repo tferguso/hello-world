@@ -1,6 +1,4 @@
 # hello-world
 disposable test repository
 
-
-
-this is more text in the readme.md file
+I changed this file in Notepad++ at 7:55am CT on Oct 1st, 2017
