@@ -1,6 +1,5 @@
 # hello-world
 disposable test repository
-
 I changed this file in Notepad++ at 3:45am CT on Oct 2nd, 2017
 
 where does this change show up?
@@ -11,3 +10,5 @@ What will it do with these changes?
 This would be more like the regular changes I make.
 
 Let me add a little more.
+
+Just making a change - not even thinking about Github.
